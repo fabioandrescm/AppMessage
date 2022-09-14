@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_contact"
+        android:icon="@drawable/ic_baseline_contact_phone_24"
+        android:title="Contactos"
+        android:enabled="true"
+        />
+
+    <item
+        android:id="@+id/navigation_bot"
+        android:icon="@drawable/ic_baseline_supervisor_account_24"
+        android:title="Operaciones"
+        android:enabled="true"
+        />
+
+    <item
+        android:id="@+id/navigation_trat"
+        android:icon="@drawable/ic_baseline_calendar_today_24"
+        android:title="Consultas"
+        android:enabled="true"
+        />
+
+</menu>
